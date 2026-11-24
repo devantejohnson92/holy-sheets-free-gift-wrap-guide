@@ -1,0 +1,237 @@
+{
+  "page_url": "https://holy-sheets-free-gift-wrap-guide.onrender.com/dl/kwy0rooP7esVeiu8SkRuA2hl/",
+  "zips": {
+    "letter": {
+      "name": "HolySheets_116_MegaBundle_All_US_Letter.zip",
+      "bytes": 12120373,
+      "url": "https://holy-sheets-free-gift-wrap-guide.onrender.com/dl/kwy0rooP7esVeiu8SkRuA2hl/HolySheets_116_MegaBundle_All_US_Letter.zip"
+    },
+    "a4": {
+      "name": "HolySheets_116_MegaBundle_All_A4.zip",
+      "bytes": 12129585,
+      "url": "https://holy-sheets-free-gift-wrap-guide.onrender.com/dl/kwy0rooP7esVeiu8SkRuA2hl/HolySheets_116_MegaBundle_All_A4.zip"
+    },
+    "png": {
+      "name": "HolySheets_116_MegaBundle_All_PNG_300DPI.zip",
+      "bytes": 8411188,
+      "url": "https://holy-sheets-free-gift-wrap-guide.onrender.com/dl/kwy0rooP7esVeiu8SkRuA2hl/HolySheets_116_MegaBundle_All_PNG_300DPI.zip"
+    }
+  },
+  "guides": {
+    "start_letter": "HolySheets_116_MegaBundle_Start_Here_US_Letter.pdf",
+    "start_a4": "HolySheets_116_MegaBundle_Start_Here_A4.pdf",
+    "print_guide": "HolySheets_116_MegaBundle_Print_Guide_and_Terms.pdf"
+  },
+  "sets": [
+    {
+      "n": "01",
+      "folder": "01_Western_Cowboy_Boot_Christmas",
+      "slug": "Western_Cowboy_Boot_Christmas_Gift_Tags",
+      "name": "Western Cowboy Boot Christmas",
+      "US": {
+        "name": "Western_Cowboy_Boot_Christmas_Gift_Tags_US_Letter.pdf",
+        "bytes": 1537127,
+        "rel": "US_Letter/01_Western_Cowboy_Boot_Christmas/Western_Cowboy_Boot_Christmas_Gift_Tags_US_Letter.pdf"
+      },
+      "A4": {
+        "name": "Western_Cowboy_Boot_Christmas_Gift_Tags_A4.pdf",
+        "bytes": 1532304,
+        "rel": "A4/01_Western_Cowboy_Boot_Christmas/Western_Cowboy_Boot_Christmas_Gift_Tags_A4.pdf"
+      },
+      "ZIP": {
+        "name": "Western_Cowboy_Boot_Christmas_Gift_Tags_PNG_Tags_300DPI.zip",
+        "bytes": 599723,
+        "rel": "PNG/01_Western_Cowboy_Boot_Christmas/Western_Cowboy_Boot_Christmas_Gift_Tags_PNG_Tags_300DPI.zip"
+      }
+    },
+    {
+      "n": "02",
+      "folder": "02_Dark_Academia_Bookworm_Bookmarks",
+      "slug": "Dark_Academia_Bookworm_Bookmark_Gift_Tags",
+      "name": "Dark Academia Bookworm Bookmarks",
+      "US": {
+        "name": "Dark_Academia_Bookworm_Bookmark_Gift_Tags_US_Letter.pdf",
+        "bytes": 1507562,
+        "rel": "US_Letter/02_Dark_Academia_Bookworm_Bookmarks/Dark_Academia_Bookworm_Bookmark_Gift_Tags_US_Letter.pdf"
+      },
+      "A4": {
+        "name": "Dark_Academia_Bookworm_Bookmark_Gift_Tags_A4.pdf",
+        "bytes": 1516381,
+        "rel": "A4/02_Dark_Academia_Bookworm_Bookmarks/Dark_Academia_Bookworm_Bookmark_Gift_Tags_A4.pdf"
+      },
+      "ZIP": {
+        "name": "Dark_Academia_Bookworm_Bookmark_Gift_Tags_PNG_Tags_300DPI.zip",
+        "bytes": 928471,
+        "rel": "PNG/02_Dark_Academia_Bookworm_Bookmarks/Dark_Academia_Bookworm_Bookmark_Gift_Tags_PNG_Tags_300DPI.zip"
+      }
+    },
+    {
+      "n": "03",
+      "folder": "03_Cozy_Coffee_Cocoa_Mug_Tags",
+      "slug": "Cozy_Coffee_Cocoa_Mug_Gift_Tags",
+      "name": "Cozy Coffee & Cocoa Mug Tags",
+      "US": {
+        "name": "Cozy_Coffee_Cocoa_Mug_Gift_Tags_US_Letter.pdf",
+        "bytes": 1355258,
+        "rel": "US_Letter/03_Cozy_Coffee_Cocoa_Mug_Tags/Cozy_Coffee_Cocoa_Mug_Gift_Tags_US_Letter.pdf"
+      },
+      "A4": {
+        "name": "Cozy_Coffee_Cocoa_Mug_Gift_Tags_A4.pdf",
+        "bytes": 1355600,
+        "rel": "A4/03_Cozy_Coffee_Cocoa_Mug_Tags/Cozy_Coffee_Cocoa_Mug_Gift_Tags_A4.pdf"
+      },
+      "ZIP": {
+        "name": "Cozy_Coffee_Cocoa_Mug_Gift_Tags_PNG_Tags_300DPI.zip",
+        "bytes": 1252633,
+        "rel": "PNG/03_Cozy_Coffee_Cocoa_Mug_Tags/Cozy_Coffee_Cocoa_Mug_Gift_Tags_PNG_Tags_300DPI.zip"
+      }
+    },
+    {
+      "n": "04",
+      "folder": "04_Christmas_Bakehouse_Cookie_Exchange",
+      "slug": "Christmas_Bakehouse_Cookie_Exchange_Gift_Tags",
+      "name": "Christmas Bakehouse Cookie Exchange",
+      "US": {
+        "name": "Christmas_Bakehouse_Cookie_Exchange_Gift_Tags_US_Letter.pdf",
+        "bytes": 1486705,
+        "rel": "US_Letter/04_Christmas_Bakehouse_Cookie_Exchange/Christmas_Bakehouse_Cookie_Exchange_Gift_Tags_US_Letter.pdf"
+      },
+      "A4": {
+        "name": "Christmas_Bakehouse_Cookie_Exchange_Gift_Tags_A4.pdf",
+        "bytes": 1487477,
+        "rel": "A4/04_Christmas_Bakehouse_Cookie_Exchange/Christmas_Bakehouse_Cookie_Exchange_Gift_Tags_A4.pdf"
+      },
+      "ZIP": {
+        "name": "Christmas_Bakehouse_Cookie_Exchange_Gift_Tags_PNG_Tags_300DPI.zip",
+        "bytes": 650732,
+        "rel": "PNG/04_Christmas_Bakehouse_Cookie_Exchange/Christmas_Bakehouse_Cookie_Exchange_Gift_Tags_PNG_Tags_300DPI.zip"
+      }
+    },
+    {
+      "n": "05",
+      "folder": "05_Quiet_Luxury_Corporate_Minimalist",
+      "slug": "Quiet_Luxury_Minimalist_Luggage_Gift_Tags",
+      "name": "Quiet Luxury Corporate Minimalist",
+      "US": {
+        "name": "Quiet_Luxury_Minimalist_Luggage_Gift_Tags_US_Letter.pdf",
+        "bytes": 1279149,
+        "rel": "US_Letter/05_Quiet_Luxury_Corporate_Minimalist/Quiet_Luxury_Minimalist_Luggage_Gift_Tags_US_Letter.pdf"
+      },
+      "A4": {
+        "name": "Quiet_Luxury_Minimalist_Luggage_Gift_Tags_A4.pdf",
+        "bytes": 1276634,
+        "rel": "A4/05_Quiet_Luxury_Corporate_Minimalist/Quiet_Luxury_Minimalist_Luggage_Gift_Tags_A4.pdf"
+      },
+      "ZIP": {
+        "name": "Quiet_Luxury_Minimalist_Luggage_Gift_Tags_PNG_Tags_300DPI.zip",
+        "bytes": 879043,
+        "rel": "PNG/05_Quiet_Luxury_Corporate_Minimalist/Quiet_Luxury_Minimalist_Luggage_Gift_Tags_PNG_Tags_300DPI.zip"
+      }
+    },
+    {
+      "n": "06",
+      "folder": "06_Sarcastic_Office_Shipping_Labels",
+      "slug": "Sarcastic_Office_Gift_Tags",
+      "name": "Sarcastic Office Faux Shipping Labels",
+      "US": {
+        "name": "Sarcastic_Office_Gift_Tags_US_Letter.pdf",
+        "bytes": 1538556,
+        "rel": "US_Letter/06_Sarcastic_Office_Shipping_Labels/Sarcastic_Office_Gift_Tags_US_Letter.pdf"
+      },
+      "A4": {
+        "name": "Sarcastic_Office_Gift_Tags_A4.pdf",
+        "bytes": 1539554,
+        "rel": "A4/06_Sarcastic_Office_Shipping_Labels/Sarcastic_Office_Gift_Tags_A4.pdf"
+      },
+      "ZIP": {
+        "name": "Sarcastic_Office_Gift_Tags_PNG_Tags_300DPI.zip",
+        "bytes": 1167074,
+        "rel": "PNG/06_Sarcastic_Office_Shipping_Labels/Sarcastic_Office_Gift_Tags_PNG_Tags_300DPI.zip"
+      }
+    },
+    {
+      "n": "07",
+      "folder": "07_Heirloom_Faith_Nativity_Arches",
+      "slug": "Faith_Nativity_Arch_Gift_Tags",
+      "name": "Heirloom Faith & Nativity Arches & Stars",
+      "US": {
+        "name": "Faith_Nativity_Arch_Gift_Tags_US_Letter.pdf",
+        "bytes": 1527676,
+        "rel": "US_Letter/07_Heirloom_Faith_Nativity_Arches/Faith_Nativity_Arch_Gift_Tags_US_Letter.pdf"
+      },
+      "A4": {
+        "name": "Faith_Nativity_Arch_Gift_Tags_A4.pdf",
+        "bytes": 1528793,
+        "rel": "A4/07_Heirloom_Faith_Nativity_Arches/Faith_Nativity_Arch_Gift_Tags_A4.pdf"
+      },
+      "ZIP": {
+        "name": "Faith_Nativity_Arch_Gift_Tags_PNG_Tags_300DPI.zip",
+        "bytes": 787788,
+        "rel": "PNG/07_Heirloom_Faith_Nativity_Arches/Faith_Nativity_Arch_Gift_Tags_PNG_Tags_300DPI.zip"
+      }
+    },
+    {
+      "n": "08",
+      "folder": "08_Retro_1950s_Atomic_Postage_Stamps",
+      "slug": "Retro_1950s_Atomic_Gift_Tags",
+      "name": "Retro 1950s Atomic Postage Stamps",
+      "US": {
+        "name": "Retro_1950s_Atomic_Gift_Tags_US_Letter.pdf",
+        "bytes": 1529245,
+        "rel": "US_Letter/08_Retro_1950s_Atomic_Postage_Stamps/Retro_1950s_Atomic_Gift_Tags_US_Letter.pdf"
+      },
+      "A4": {
+        "name": "Retro_1950s_Atomic_Gift_Tags_A4.pdf",
+        "bytes": 1530784,
+        "rel": "A4/08_Retro_1950s_Atomic_Postage_Stamps/Retro_1950s_Atomic_Gift_Tags_A4.pdf"
+      },
+      "ZIP": {
+        "name": "Retro_1950s_Atomic_Gift_Tags_PNG_Tags_300DPI.zip",
+        "bytes": 646501,
+        "rel": "PNG/08_Retro_1950s_Atomic_Postage_Stamps/Retro_1950s_Atomic_Gift_Tags_PNG_Tags_300DPI.zip"
+      }
+    },
+    {
+      "n": "09",
+      "folder": "09_Foldable_Gift_Card_Cash_Sleeves",
+      "slug": "Christmas_Gift_Card_Holders",
+      "name": "Foldable Gift Card & Cash Holder Sleeves",
+      "US": {
+        "name": "Christmas_Gift_Card_Holders_US_Letter.pdf",
+        "bytes": 1570878,
+        "rel": "US_Letter/09_Foldable_Gift_Card_Cash_Sleeves/Christmas_Gift_Card_Holders_US_Letter.pdf"
+      },
+      "A4": {
+        "name": "Christmas_Gift_Card_Holders_A4.pdf",
+        "bytes": 1572078,
+        "rel": "A4/09_Foldable_Gift_Card_Cash_Sleeves/Christmas_Gift_Card_Holders_A4.pdf"
+      },
+      "ZIP": {
+        "name": "Christmas_Gift_Card_Holders_PNG_Tags_300DPI.zip",
+        "bytes": 819864,
+        "rel": "PNG/09_Foldable_Gift_Card_Cash_Sleeves/Christmas_Gift_Card_Holders_PNG_Tags_300DPI.zip"
+      }
+    },
+    {
+      "n": "10",
+      "folder": "10_Whimsigoth_Celestial_Solstice_Tags",
+      "slug": "Whimsigoth_Celestial_Gift_Tags",
+      "name": "Whimsigoth Celestial Solstice Tags",
+      "US": {
+        "name": "Whimsigoth_Celestial_Gift_Tags_US_Letter.pdf",
+        "bytes": 1284646,
+        "rel": "US_Letter/10_Whimsigoth_Celestial_Solstice_Tags/Whimsigoth_Celestial_Gift_Tags_US_Letter.pdf"
+      },
+      "A4": {
+        "name": "Whimsigoth_Celestial_Gift_Tags_A4.pdf",
+        "bytes": 1278915,
+        "rel": "A4/10_Whimsigoth_Celestial_Solstice_Tags/Whimsigoth_Celestial_Gift_Tags_A4.pdf"
+      },
+      "ZIP": {
+        "name": "Whimsigoth_Celestial_Gift_Tags_PNG_Tags_300DPI.zip",
+        "bytes": 654806,
+        "rel": "PNG/10_Whimsigoth_Celestial_Solstice_Tags/Whimsigoth_Celestial_Gift_Tags_PNG_Tags_300DPI.zip"
+      }
+    }
+  ]
+}

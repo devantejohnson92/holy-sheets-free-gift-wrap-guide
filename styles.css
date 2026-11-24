@@ -1,0 +1,90 @@
+:root{--cream:#faf6ee;--cream-2:#f2ebdd;--ink:#1f1d1a;--muted:#5d574e;--berry:#7a1f2b;--berry-d:#5e1620;--pine:#1f4a3a;--gold:#a8853a;--line:#e3d9c6;--r:14px;--shadow:0 10px 30px rgba(60,40,20,.12)}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:var(--ink);background:var(--cream);line-height:1.6;font-size:17px}
+img{max-width:100%;height:auto;display:block}
+a{color:var(--berry)}
+h1,h2,h3{font-family:"Playfair Display",Georgia,serif;line-height:1.15;margin:0 0 .5em}
+h1{font-size:clamp(2rem,6vw,3.3rem)}
+h2{font-size:clamp(1.6rem,4.2vw,2.3rem);text-align:center}
+h3{font-size:1.25rem}
+.wrap{width:min(1120px,100% - 2.5rem);margin-inline:auto}
+.center{text-align:center}
+.topbar{background:#fff;border-bottom:1px solid var(--line)}
+.topbar-inner{display:flex;justify-content:space-between;align-items:center;padding:.8rem 0;gap:1rem}
+.brand{font-family:"Playfair Display",Georgia,serif;font-weight:700;font-size:1.2rem;color:var(--ink);text-decoration:none}
+.brand span{color:var(--berry)}
+.topbar-link{font-size:.92rem;font-weight:600;text-decoration:none}
+.hero{padding:2.2rem 0 3rem;background:radial-gradient(ellipse at top right,#f3e6cf 0,transparent 60%),var(--cream)}
+.hero-grid{display:grid;gap:2rem;align-items:center}
+.eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:.78rem;font-weight:700;color:var(--gold);margin:0 0 .7rem}
+.amp{color:var(--berry)}
+.lede{font-size:1.08rem;color:var(--muted);margin:0 0 1.4rem;max-width:36em}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:.55rem;font-weight:700;text-decoration:none;border-radius:999px;padding:.8rem 1.4rem;transition:transform .15s,background .15s,box-shadow .15s;font-size:1rem;text-align:center}
+.btn:focus-visible{outline:3px solid var(--gold);outline-offset:3px}
+.btn-primary{background:var(--berry);color:#fff;box-shadow:0 6px 18px rgba(122,31,43,.28)}
+.btn-primary:hover{background:var(--berry-d);transform:translateY(-1px)}
+.btn-xl{font-size:1.08rem;padding:1.05rem 1.6rem;width:100%;max-width:460px}
+.btn-outline{border:2px solid var(--pine);color:var(--pine);background:transparent}
+.btn-outline:hover{background:var(--pine);color:#fff}
+.btn-ghost{color:var(--pine);text-decoration:underline;text-underline-offset:4px}
+.facts{list-style:none;padding:0;margin:1.1rem 0 0;color:var(--muted);font-size:.92rem}
+.facts li{padding-left:1.4rem;position:relative;margin:.25rem 0}
+.facts li::before{content:"\2713";position:absolute;left:0;color:var(--pine);font-weight:700}
+.hero-art{position:relative;height:340px;max-width:440px;margin-inline:auto;width:100%}
+.hero-art .page{position:absolute;width:62%;border-radius:6px;box-shadow:var(--shadow);border:1px solid var(--line);background:#fff}
+.hero-art .p1{left:0;top:18px;transform:rotate(-5deg)}
+.hero-art .p3{right:0;top:0;transform:rotate(4deg)}
+section{padding:3.2rem 0}
+.section-sub{text-align:center;color:var(--muted);max-width:40em;margin:0 auto 2rem}
+.inside{background:#fff;border-block:1px solid var(--line)}
+.pages{display:grid;gap:1.5rem}
+.card{margin:0;background:var(--cream);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
+.card img{border-bottom:1px solid var(--line);background:#fff}
+.card figcaption{padding:1rem 1.15rem 1.25rem;color:var(--muted);font-size:.95rem}
+.card strong{display:block;color:var(--ink);font-family:"Playfair Display",Georgia,serif;font-size:1.15rem;margin:.15rem 0 .3rem}
+.num{font-size:.72rem;text-transform:uppercase;letter-spacing:.12em;font-weight:700;color:var(--gold)}
+.tags-title{text-align:center;margin-top:2.6rem}
+.tags{list-style:none;padding:0;margin:1rem 0 0;display:grid;grid-template-columns:repeat(2,1fr);gap:1rem}
+.tags li{background:var(--cream);border:1px solid var(--line);border-radius:var(--r);padding:1rem;display:flex;flex-direction:column;align-items:center;gap:.6rem;font-weight:600;font-size:.9rem}
+.tags img{height:170px;width:auto;object-fit:contain}
+.howto-grid{display:grid;gap:2rem}
+.howto h2{text-align:left}
+.steps{padding-left:1.3rem;margin:0}
+.steps li{margin:.7rem 0;padding-left:.3rem}
+.steps li::marker{color:var(--berry);font-weight:700}
+.note{background:#fff;border:1px solid var(--line);border-left:5px solid var(--pine);border-radius:var(--r);padding:1.3rem 1.4rem}
+.note ul{padding-left:1.1rem;margin:0;font-size:.95rem;color:var(--muted)}
+.note li{margin:.55rem 0}
+.note strong{color:var(--ink)}
+.shop{background:var(--cream-2)}
+.offers{display:grid;gap:1.4rem;margin-bottom:1.6rem}
+.offer{background:#fff;border:1px solid var(--line);border-radius:var(--r);overflow:hidden;display:flex;flex-direction:column}
+.offer-body{padding:1.3rem 1.4rem 1.5rem;display:flex;flex-direction:column;gap:.5rem;flex:1}
+.offer-body h3{margin:0}
+.offer-body p{margin:0;color:var(--muted);font-size:.95rem}
+.offer-body .btn{margin-top:auto;align-self:flex-start}
+.offer-body p:last-of-type{margin-bottom:.8rem}
+.meta{font-weight:700;color:var(--pine)!important;font-size:.85rem!important;text-transform:uppercase;letter-spacing:.08em}
+.badge{display:inline-block;align-self:flex-start;background:var(--pine);color:#fff!important;font-size:.72rem!important;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:.2rem .6rem;border-radius:999px}
+.final{background:var(--berry);color:#fff}
+.final h2{color:#fff}
+.final .btn-primary{background:#fff;color:var(--berry)}
+.final .btn-primary:hover{background:var(--cream)}
+.footer{padding:2rem 0;font-size:.85rem;color:var(--muted);text-align:center;background:var(--cream)}
+.footer p{margin:.3rem 0}
+@media (min-width:760px){
+  .hero{padding:3.5rem 0 4rem}
+  .hero-grid{grid-template-columns:1.1fr .9fr}
+  .hero-art{height:430px}
+  .pages{grid-template-columns:repeat(3,1fr)}
+  .tags{grid-template-columns:repeat(4,1fr)}
+  .howto-grid{grid-template-columns:1.2fr .8fr;align-items:start}
+  .offers{grid-template-columns:repeat(2,1fr)}
+  .offer-feature{grid-column:1/-1;flex-direction:row}
+  .offer-feature img{width:55%;object-fit:cover}
+  .btn-xl{width:auto}
+}
+@media (prefers-reduced-motion:reduce){.btn{transition:none}}
+.brand,.topbar-link{white-space:nowrap}
+@media (max-width:420px){.hide-sm{display:none}.brand{font-size:1.08rem}}
